@@ -19,7 +19,7 @@ This public release includes:
 ## Author
 
 **Marko Dabović**  
-https://img.shields.io/badge/ORCID-0009--0006--3078--6798-a6ce39?logo=orcid&logoColor=white)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3078--6798-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3078-6798)
 [ORCID iD](https://orcid.org/0009-0006-3078-6798)  
 Founder of [AIKnowsMe](https://github.com/AIKnowsMe)
 
