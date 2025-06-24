@@ -154,12 +154,19 @@ This documentation and reports are based on:
 
 ## 🧾 License
 
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**
+**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
 
-(CC BY-NC-ND 4.0)
+This repository is licensed under the terms of the **CC BY-NC-ND 4.0** license.
 
-> Redistribution allowed with credit. Commercial use or modification prohibited.
-> 
+> 🔒 You are permitted to **share** and **redistribute** the material in any medium or format,  
+> provided that **appropriate credit** is given.  
+>  
+> ❌ You may **not use** this work for **commercial purposes**.  
+> ❌ You may **not modify**, **remix**, or **build upon** the material.  
+>  
+> 📎 See the full license terms at:  
+> [https://creativecommons.org/licenses/by-nc-nd/4.0](https://creativecommons.org/licenses/by-nc-nd/4.0)
+> See [LICENSE.txt](./LICENSE.txt) for full terms.
 
 ---
 
