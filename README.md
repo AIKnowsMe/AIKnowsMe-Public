@@ -16,6 +16,14 @@ This public release includes:
 
 ---
 
+## Author
+
+**Marko Dabović**  
+[ORCID iD](https://orcid.org/0009-0006-3078-6798)  
+Founder of [AIKnowsMe](https://github.com/AIKnowsMe)
+
+---
+
 ## 🌐 Access the AI agent
 
 🎯 [Try AIKnowsMe GPT](https://aiknowsme.io/gpt)  
