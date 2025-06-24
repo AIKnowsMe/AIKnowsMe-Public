@@ -21,6 +21,8 @@ This public release includes:
 **Marko Dabović**  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3078--6798-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3078-6798)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15733594.svg)](https://doi.org/10.5281/zenodo.15733594)
+
 Founder of [AIKnowsMe](https://github.com/AIKnowsMe)
 
 ---
