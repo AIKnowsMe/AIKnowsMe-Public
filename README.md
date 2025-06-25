@@ -8,7 +8,7 @@
 
 **Author:** Marko Dabović
 
-**Affiliations:** AIKnowsMe, AIKnowsMe™ – Symbolic Profiling Initiative
+**Affiliations:** AIKnowsMe™, AIKnowsMe™ – Symbolic Profiling Initiative
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3078--6798-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3078-6798)
 
@@ -170,36 +170,21 @@ This repository is licensed under the terms of the **CC BY-NC-ND 4.0** license.
 
 ---
 
-## 👤 Author Metadata
-
+## 👤 Author & Project Metadata
 - **Author:** Marko Dabović
 - **Email:** [marko.dabovic@outlook.com](mailto:marko.dabovic@outlook.com)
 - **ORCID:** [0009-0006-3078-6798](https://orcid.org/0009-0006-3078-6798)
-- **Role:** Project Leader
-- **Affiliations:**
-    - AIKnowsMe
-    - AIKnowsMe™ – Symbolic Profiling Initiative
-- **Website:** [https://aiknowsme.io](https://aiknowsme.io/)
-- **GitHub:** [https://github.com/AIKnowsMe/AIKnowsMe-Public](https://github.com/AIKnowsMe/AIKnowsMe-Public)
-- **LinkedIn:** [https://linkedin.com/company/aiknowsme](https://linkedin.com/company/aiknowsme)
-- **Instagram:** [https://instagram.com/aiknowsme](https://instagram.com/aiknowsme)
+- 🎓 Role: Project Leader
+-- 🏛️ Affiliations:
+--- AIKnowsMe
+--- AIKnowsMe™ – Symbolic Profiling Initiative
 
----
+## 🌐 Online Presence
 
-## 📇 Metadata
-
-- **Creator:** Marko Dabović
-- **Affiliations:**
-    - AIKnowsMe
-    - AIKnowsMe™ – Symbolic Profiling Initiative
-- **Role:** Project Leader
-- **ORCID:** https://orcid.org/0009-0006-3078-6798
-- **Website:** [https://aiknowsme.io](https://aiknowsme.io/)
-- **LinkedIn:** https://linkedin.com/company/aiknowsme
-- **Instagram:** https://instagram.com/aiknowsme
-- **DOI:** https://doi.org/10.5281/zenodo.15733594
-- **Email:** marko.dabovic@outlook.com
-- **GitHub:** [https://github.com/AIKnowsMe/AIKnowsMe-Public](https://github.com/AIKnowsMe/AIKnowsMe-Public)
+- 🔗**Website:** [https://aiknowsme.io](https://aiknowsme.io/)
+- 🐙**GitHub:** [https://github.com/AIKnowsMe/AIKnowsMe-Public](https://github.com/AIKnowsMe/AIKnowsMe-Public)
+- 💼**LinkedIn:** https://linkedin.com/company/aiknowsme
+- 📸**Instagram:** https://instagram.com/aiknowsme
 
 ---
 
