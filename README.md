@@ -273,7 +273,7 @@ Founder of [AIKnowsMe](https://github.com/AIKnowsMe)
 
 ## 🌐 Access the AI agent
 
-🎯 [Try AIKnowsMe GPT](https://aiknowsme.io/gpt)  
+🎯 [Try AIKnowsMe GPT](https://www.aiknowsme.io/gpt)  
 🔗 [LinkedIn](https://www.linkedin.com/company/aiknowsme)  
 📸 [Instagram](https://www.instagram.com/aiknowsme)
 
