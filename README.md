@@ -35,7 +35,7 @@ This public release includes **multilingual demo reports** from AIKnowsMe Engine
 - `aiknowsme_demo_eng.pdf` – English
 - `aiknowsme_demo_fra.pdf` – French
 - `aiknowsme_demo_ita.pdf` – Italian
-- `aiknowsme_demo_kin.pdf` – Simplified Chinese
+- `aiknowsme_demo_zh.pdf` – Simplified Chinese
 
 Each file contains symbolic reflexes, metaphor categories, archetypal tendencies, and a 20-dimensional KPI profile.
 
