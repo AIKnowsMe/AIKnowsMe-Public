@@ -135,7 +135,7 @@ This documentation and reports are based on:
 
 > AIKnowsMe Engine v5
 > 
-> - Multilingual support (EN, FR, IT, CN)
+> - Language-Independent Profiling with native language strongly recommended for symbolic accuracy.
 > - Enhanced metaphor classification
 > - Expanded archetype framework
 > - Exportable tagsets & session metadata
